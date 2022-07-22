@@ -1,0 +1,14 @@
+{
+  "name": "landingpage-backend",
+  "version": "1.0.0",
+  "description": "backend for the landing page of webflow ",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "prince",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
