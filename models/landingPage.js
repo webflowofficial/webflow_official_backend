@@ -11,9 +11,17 @@ const Schema = new mongoose.Schema({
         type: String,
         required: [true, "A top line is required"]
     },
+    brandImage: {
+        type: String,
+        required: [true, "A brand Image is required"]
+    },
     brandName: {
         type: String,
         required: [true, "A brand name is required"]
+    },
+    brandLine: {
+        type: String,
+        required: [true, "A brand line is required"]
     },
     brandDescription: {
         type: String,
