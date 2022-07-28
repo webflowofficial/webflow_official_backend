@@ -8,6 +8,8 @@ mongoose.connect(uri, {
     useNewUrlParser: true
 }).then(() => {
     console.log("connection to database eshtablished");
+}).catch(err => {
+    console.log(err);
 })
 
 //server listening------------------------------------------------->
