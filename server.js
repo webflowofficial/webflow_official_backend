@@ -1,5 +1,6 @@
 const mongoose = require('mongoose');
 const app = require('./app');
+const importData = require('./utils/importData');
 //------------------------------------------------>
 
 //connection to database------------------------------------------->
@@ -17,3 +18,6 @@ const port = process.env.PORT || 3000;
 const server = app.listen(port, () => {
     console.log(`Server started on port ${port}`)
 })
+
+//Add data to database
+// importData.save();
