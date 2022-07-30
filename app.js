@@ -12,6 +12,7 @@ const app = express();
 app.use(cors());
 app.use(Router);
 app.use(compression());
+app.use(express.static('./public'));
 
 
 //EXPORT-------------->
