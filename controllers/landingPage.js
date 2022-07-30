@@ -7,10 +7,7 @@ const Model = require('./../models/landingPage');
 exports.getData = async (req, res) => {
     try {
         const data = await Model.find();
-        res.status(200).json({
-            status: "Success",
-            data: data
-        })
+        res.status(200).json(data);
     } catch (error) {
         console.log(error);
         res.status(500).json({
