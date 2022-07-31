@@ -20,7 +20,7 @@ exports.getData = async (req, res) => {
 //--------------------------------------------------------------->
 exports.contact = async (req, res) => {
     try {
-        const data = await ModelContact.create(req.body);
+        await ModelContact.create(req.body);
         res.status(201).json({
             status: "success"
         });

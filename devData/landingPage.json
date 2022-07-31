@@ -35,7 +35,45 @@
                 "Node.js",
                 "Express.js"
             ],
-            "projectPicture": null
+            "projectPicture": "https://webflowofficial.herokuapp.com/img/instagram.png"
+        },
+        {
+            "projectName": "Facebook clone",
+            "projectDescription": [
+                "A fully Responsive facebook clone App made using modern technologies using html5, css3 and es6. Random images are fetched from unsplash random image api. Amazing animations and ui design was used for making this project possible "
+            ],
+            "projectTechnologies": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "projectPicture": "https://webflowofficial.herokuapp.com/img/facebook.png"
+        },
+        {
+            "projectName": "Ecommerce store for smartphones",
+            "projectDescription": [
+                "A fully functioning ecommerce platform for byung smartphones. All user login/Sign up features implemented and tested. Users acan add there items to cart and proceed to checkout as per there requirements."
+            ],
+            "projectTechnologies": [
+                "React",
+                "Node.js",
+                "Express.js",
+                "MongoDB"
+            ],
+            "projectPicture": "https://webflowofficial.herokuapp.com/img/mobizone.png"
+        },
+        {
+            "projectName": "Weather App",
+            "projectDescription": [
+                "An amazing and fully fledge weather app. Users can see weather data from many cities located all around the globe. Our app is fully resposive and all code quality features were implemented while making of this app. weather data is fetched using openWeather Api."
+            ],
+            "projectTechnologies": [
+                "React",
+                "Node.js",
+                "Express.js",
+                "MongoDB"
+            ],
+            "projectPicture": "https://webflowofficial.herokuapp.com/img/weatherApp.png"
         }
     ],
     "footer": "Designed & Built by Prince Verma and Molik Singla "
