@@ -9,6 +9,7 @@ const Router = require('./routes/routes');
 const app = express();
 
 //midlewares------------------------------>
+app.use(express.json());
 app.use(cors());
 app.use(Router);
 app.use(compression());

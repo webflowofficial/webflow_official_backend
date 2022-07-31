@@ -6,6 +6,7 @@ const Router = express.Router();
 
 //routes
 Router.route('/').get(homeController.getData);
+Router.route('/contact').post(homeController.contact);
 
 
 //EXPORT-------------->
