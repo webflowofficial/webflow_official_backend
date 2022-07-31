@@ -20,4 +20,4 @@ const server = app.listen(port, () => {
 })
 
 //Add data to database
-importData.save();
+// importData.save();
