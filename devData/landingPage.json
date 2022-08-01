@@ -35,7 +35,9 @@
                 "Node.js",
                 "Express.js"
             ],
-            "projectPicture": "https://webflowofficial.herokuapp.com/img/instagram.png"
+            "projectPicture": "https://webflowofficial.herokuapp.com/img/instagram.png",
+            "projectGithub": "https://github.com/Molik-Singla/InstagramChatClone.git",
+            "projectLink": null
         },
         {
             "projectName": "Facebook clone",
@@ -47,7 +49,9 @@
                 "css",
                 "javascript"
             ],
-            "projectPicture": "https://webflowofficial.herokuapp.com/img/facebook.png"
+            "projectPicture": "https://webflowofficial.herokuapp.com/img/facebook.png",
+            "projectGithub": "https://github.com/princeverma-ai/clone-facebook.git",
+            "projectLink": "https://princeverma-ai.github.io/clone-facebook/"
         },
         {
             "projectName": "Ecommerce store for smartphones",
@@ -60,7 +64,9 @@
                 "Express.js",
                 "MongoDB"
             ],
-            "projectPicture": "https://webflowofficial.herokuapp.com/img/mobizone.png"
+            "projectPicture": "https://webflowofficial.herokuapp.com/img/mobizone.png",
+            "projectGithub": "https://github.com/Molik-Singla/E-Commerce-Website.git",
+            "projectLink": "https://molik-singla.github.io/E-Commerce-Website/"
         },
         {
             "projectName": "Weather App",
@@ -73,7 +79,9 @@
                 "Express.js",
                 "MongoDB"
             ],
-            "projectPicture": "https://webflowofficial.herokuapp.com/img/weatherApp.png"
+            "projectPicture": "https://webflowofficial.herokuapp.com/img/weatherApp.png",
+            "projectGithub": "https://github.com/princeverma-ai/weatherApp.git",
+            "projectLink": "https://princeverma-ai.github.io/weatherApp/"
         }
     ],
     "footer": "Designed & Built by Prince Verma and Molik Singla "
