@@ -59,10 +59,9 @@
                 "A fully functioning ecommerce platform for byung smartphones. All user login/Sign up features implemented and tested. Users acan add there items to cart and proceed to checkout as per there requirements."
             ],
             "projectTechnologies": [
-                "React",
-                "Node.js",
-                "Express.js",
-                "MongoDB"
+                "html",
+                "css",
+                "javascript"
             ],
             "projectPicture": "https://webflowofficial.herokuapp.com/img/mobizone.png",
             "projectGithub": "https://github.com/Molik-Singla/E-Commerce-Website.git",
